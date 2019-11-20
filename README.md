@@ -8,3 +8,5 @@ Tämän tietokannan tarkoitus on tuottaa yksinkertainen datan säilömistila,
 jossa ihmiset voivat hakutoiminnoilla vertailla eri käyttäjien
 buildeja keskenään ja luoda sinne omia buildeja yleiseen tai yksityiseen 
 käyttöön.
+
+Chart: https://github.com/ellaellaellaella/dpsdb/blob/master/assets/dpschart.jpg
