@@ -6,5 +6,5 @@ tyyliä tai testatakseen erilaisia pelihahmon pelityylejä (builds).
 
 Tämän tietokannan tarkoitus on tuottaa yksinkertainen datan säilömistila,
 jossa ihmiset voivat hakutoiminnoilla vertailla eri käyttäjien
-buildeja keskenään ja luoda sinne omia yleiseen tai yksityiseen 
+buildeja keskenään ja luoda sinne omia buildeja yleiseen tai yksityiseen 
 käyttöön.
