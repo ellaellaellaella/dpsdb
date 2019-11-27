@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>Dpsdb</title>
+</head>
+
+<body>
+    <ul>
+        <li><a href="{{ url_for('builds_index') }}">List Builds</a></li>
+        <li><a href="{{ url_for('builds_form') }}">Add a Build</a></li>
+    </ul>
+    {% block body %}
+    <p>
+        Content.
+    </p>
+    {% endblock %}
+</body>
+
+</html>

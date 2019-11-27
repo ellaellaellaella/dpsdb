@@ -1,0 +1,16 @@
+{% extends "layout.html" %}
+
+{% block body %}
+<table>
+    <tr>
+        <th>Build</th>
+        <th>Score</th>
+    </tr>
+    {% for build in builds %}
+    <tr>
+        <td>{{ build.buildName }}</td>
+        <td>{{ build.score }}</td>
+    </tr>
+    {% endfor %}
+</table>
+{% endblock %}
